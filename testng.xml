@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/ASUS/juaracoding/sqabatch11/JCAppiumPageFactory/src/test/java/com/juaracoding/appium/FinancialTest.java">
+        <classes>
+            <class name="com.juaracoding.appium.FinancialTest">
+                <methods>
+                    <include name="testIncome"/>
+                    <include name="testOutcome"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
